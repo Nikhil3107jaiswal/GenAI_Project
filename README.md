@@ -1,6 +1,4 @@
-### AI Storyteller & Ask Me Anything (BERT QA System)
-
-This repository contains two end-to-end Generative AI projects built using Hugging Face Transformers and Python. These projects demonstrate practical implementation of modern NLP models for text generation and question answering tasks.
+#### This repository contains two end-to-end Generative AI projects built using Hugging Face Transformers and Python. These projects demonstrate practical implementation of modern NLP models for text generation and question answering tasks.
 
 # 📌 Project 1: AI Storyteller – Text Generation using Transformer Models
 
